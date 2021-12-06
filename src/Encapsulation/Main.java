@@ -8,7 +8,11 @@ public class Main {
 
 		pers1.setName("Mihai");
 
-		System.out.println(pers1.getName());					
+		System.out.println(pers1.getName());	
+		
+		System.out.println("Only a test");	
+		
+		
 
 	}
 

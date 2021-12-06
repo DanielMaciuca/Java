@@ -32,7 +32,7 @@ public class Main {
 		}
 
 		//Max is public
-		System.out.println("Calling Max variable from interface" + bytwos.Max);
+		//System.out.println("Calling Max variable from interface" + bytwos.Max);
 
 		//Max is static
 		System.out.println("Calling the Max varialble without an object" + Series.Max);

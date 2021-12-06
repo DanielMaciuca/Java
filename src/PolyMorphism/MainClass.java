@@ -25,7 +25,7 @@ public class MainClass {
 		/* the reference variable of superclass type can
 		 * point to NEW object of subclass */
 
-		Enemy enemy2 = new Vampire();
+		//Enemy enemy2 = new Vampire();
 
 		//enemy2.Talk();
 
