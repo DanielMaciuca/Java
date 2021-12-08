@@ -15,6 +15,7 @@ public class AbstractDemo {
 		myphone.dance();
 		myphone.cook();
 //only a test
+//again
 
 	}
 
