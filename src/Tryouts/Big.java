@@ -9,6 +9,8 @@ public class Big {
 	public static void porto() {
 		
 		System.out.println("This is a static method");
+		
+		System.out.println("this is only a test");
 	}
 	
 
