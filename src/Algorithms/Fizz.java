@@ -1,4 +1,4 @@
-package HomeWork;
+package Algorithms;
 
 public class Fizz {
 
