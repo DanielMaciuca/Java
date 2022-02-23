@@ -8,10 +8,7 @@ public class Booleans {
 		boolean yes = true;
 		boolean no = false;		
 		System.out.println(yes + " " + no);
-		
-		
-		
-
+			
 	}
 
 }

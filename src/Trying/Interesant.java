@@ -1,4 +1,4 @@
-package Stuff;
+package Trying;
 
 // daca nu am constructor sa sa imi afiseze 100
 // daca am constuctor imi afiseaza 5, ceea ce e ok

@@ -1,4 +1,4 @@
-package Stuff;
+package Trying;
 
 
 public class FinalClass {
