@@ -3,6 +3,7 @@ package Interfaces;
 public class ByThrees implements Series, Series2 {
 
 	int val;
+	
 
 	ByThrees(){
 

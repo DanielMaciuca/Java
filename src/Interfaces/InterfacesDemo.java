@@ -4,7 +4,7 @@ interface WaterBottleInterface{
 	
 	String color = "Blue";
 	
-	/* By defautl the methods from an interface are public and abstract. 
+	/* By default the methods from an interface are public and abstract. 
 	 * You don't need to write them in clear */
 	 void fillup();
 	 void pourup();
@@ -32,6 +32,7 @@ class WaterBottle implements WaterBottleInterface{
 public class InterfacesDemo {
 
 	public static void main(String[] args) {
+
 		
 		WaterBottle myobject = new WaterBottle();
 		

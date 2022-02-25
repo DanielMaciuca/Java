@@ -2,7 +2,7 @@ package Interfaces;
 
 public interface Series {
 	
-	/*Variables in the interface are public static final.
+	/*Variables in the interface are public/static/final.
 	 * This means they can be accessed by other classes
 	 * and can be used without creating an object*/
 	

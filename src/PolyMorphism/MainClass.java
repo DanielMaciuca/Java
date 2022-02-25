@@ -31,7 +31,7 @@ public class MainClass {
 
 		//an array of enemies which is the superclass
 		// the array contains different types of objects of subclasses
-		Enemy[] enemies = {vampire, werewolf};
+		Enemy enemies[] = {vampire, werewolf};
 		enemies[0].Talk();
 		enemies[1].Talk();
 	}
