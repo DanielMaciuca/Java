@@ -33,7 +33,8 @@ public class StaticDemo {
 		Emp gigi = new Emp();
 		gigi.emp_id = 6;
 		gigi.salary = 1200;
-
+		
+		
 		mihai.show();
 		gigi.show();
 
