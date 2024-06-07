@@ -1,7 +1,7 @@
 package Abstraction;
 
 public class AbstractDemo {
-//comment
+//comment 2
 	public static void main(String[] args) {
 
 		//Cannot make an instance(object) of an abstract class
