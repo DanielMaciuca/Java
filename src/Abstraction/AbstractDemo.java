@@ -1,12 +1,9 @@
 package Abstraction;
 
 public class AbstractDemo {
-<<<<<<< HEAD
-//comment 3 - feature
-=======
-//comment 3
-// mai bagam o fisa
->>>>>>> branch 'main' of https://github.com/DanielMaciuca/Java.git
+
+//again
+
 	public static void main(String[] args) {
 
 		//Cannot make an instance(object) of an abstract class
