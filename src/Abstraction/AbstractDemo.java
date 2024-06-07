@@ -3,7 +3,8 @@ package Abstraction;
 public class AbstractDemo {
 
 	public static void main(String[] args) {
-
+		
+		// last try
 		//Cannot make an instance(object) of an abstract class.bbbccccc
 		//DanielPhone myphone = new DanielPhone();
 		//myphone.call();
