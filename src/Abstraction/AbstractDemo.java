@@ -4,7 +4,7 @@ public class AbstractDemo {
 
 	public static void main(String[] args) {
 
-		//Cannot make an instance(object) of an abstract class.bbb
+		//Cannot make an instance(object) of an abstract class.bbbccccc
 		//DanielPhone myphone = new DanielPhone();
 		//myphone.call();
 
