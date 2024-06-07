@@ -7,7 +7,7 @@ public class AbstractDemo {
 		//Cannot make an instance(object) of an abstract class.bbbccccc
 		//DanielPhone myphone = new DanielPhone();
 		//myphone.call();
-
+//inca ceva
 		CelMaiDestept myphone = new CelMaiDestept();
 
 		myphone.call();
